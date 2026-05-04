@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|c:\\users\\user1\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|solutionrelative:backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|c:\\users\\user1\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\services\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|solutionrelative:backend\\services\\auctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|c:\\users\\user1\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|solutionrelative:backend\\models\\bid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|c:\\users\\user1\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\services\\iauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|solutionrelative:backend\\services\\iauctionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|c:\\users\\user1\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\controllers\\bidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|solutionrelative:backend\\controllers\\bidscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|c:\\users\\user1\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|solutionrelative:backend\\models\\auction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|c:\\users\\user1\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\controllers\\auctionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|solutionrelative:backend\\controllers\\auctionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|c:\\users\\user1\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|solutionrelative:backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|c:\\users\\user1\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|solutionrelative:backend\\backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|c:\\users\\user1\\desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85A0ADFF-85C7-4F43-A988-1AA83F27BA6D}|backend\\backend.csproj|solutionrelative:backend\\data\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IAuctionService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Services\\IAuctionService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\IAuctionService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Services\\IAuctionService.cs",
+              "RelativeToolTip": "backend\\Services\\IAuctionService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:31:53.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AuctionService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Services\\AuctionService.cs",
+              "RelativeDocumentMoniker": "backend\\Services\\AuctionService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Services\\AuctionService.cs",
+              "RelativeToolTip": "backend\\Services\\AuctionService.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAowDIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:31:43.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Program.cs",
+              "RelativeDocumentMoniker": "backend\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Program.cs",
+              "RelativeToolTip": "backend\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T10:40:50.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BidsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Controllers\\BidsController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\BidsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Controllers\\BidsController.cs",
+              "RelativeToolTip": "backend\\Controllers\\BidsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:31:49.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Bid.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Models\\Bid.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Bid.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Models\\Bid.cs",
+              "RelativeToolTip": "backend\\Models\\Bid.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:31:45.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuctionsController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Controllers\\AuctionsController.cs",
+              "RelativeDocumentMoniker": "backend\\Controllers\\AuctionsController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Controllers\\AuctionsController.cs",
+              "RelativeToolTip": "backend\\Controllers\\AuctionsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:31:39.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Auction.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Models\\Auction.cs",
+              "RelativeDocumentMoniker": "backend\\Models\\Auction.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Models\\Auction.cs",
+              "RelativeToolTip": "backend\\Models\\Auction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:30:18.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "backend\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:01:50.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "backend.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\backend.csproj",
+              "RelativeDocumentMoniker": "backend\\backend.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\backend.csproj",
+              "RelativeToolTip": "backend\\backend.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-04T11:05:06.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Data\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "backend\\Data\\AppDbContextFactory.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Data\\AppDbContextFactory.cs",
+              "RelativeToolTip": "backend\\Data\\AppDbContextFactory.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:27:01.281Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
