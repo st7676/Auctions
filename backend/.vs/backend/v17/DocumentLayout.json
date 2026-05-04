@@ -70,8 +70,7 @@
               "RelativeToolTip": "backend\\Services\\IAuctionService.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T11:31:53.875Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T11:31:53.875Z"
             },
             {
               "$type": "Document",
@@ -83,8 +82,7 @@
               "RelativeToolTip": "backend\\Services\\AuctionService.cs",
               "ViewState": "AQIAACMAAAAAAAAAAAAowDIAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T11:31:43.945Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T11:31:43.945Z"
             },
             {
               "$type": "Document",
@@ -94,7 +92,7 @@
               "RelativeDocumentMoniker": "backend\\Program.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DE\u05D8\u05DC\u05EA \u05D1\u05D9\u05EA\\backend\\backend\\Program.cs",
               "RelativeToolTip": "backend\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAACYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-04T10:40:50.166Z",
               "EditorCaption": ""
@@ -109,8 +107,7 @@
               "RelativeToolTip": "backend\\Controllers\\BidsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T11:31:49.906Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T11:31:49.906Z"
             },
             {
               "$type": "Document",
@@ -122,8 +119,7 @@
               "RelativeToolTip": "backend\\Models\\Bid.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T11:31:45.423Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T11:31:45.423Z"
             },
             {
               "$type": "Document",
@@ -135,8 +131,7 @@
               "RelativeToolTip": "backend\\Controllers\\AuctionsController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T11:31:39.638Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T11:31:39.638Z"
             },
             {
               "$type": "Document",
@@ -148,8 +143,7 @@
               "RelativeToolTip": "backend\\Models\\Auction.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T11:30:18.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T11:30:18.346Z"
             },
             {
               "$type": "Document",
@@ -161,8 +155,7 @@
               "RelativeToolTip": "backend\\Data\\AppDbContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAIBJwA0AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T11:01:50.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T11:01:50.444Z"
             },
             {
               "$type": "Document",
@@ -174,8 +167,7 @@
               "RelativeToolTip": "backend\\backend.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-05-04T11:05:06.086Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T11:05:06.086Z"
             },
             {
               "$type": "Document",
@@ -187,8 +179,7 @@
               "RelativeToolTip": "backend\\Data\\AppDbContextFactory.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAQwAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-04T11:27:01.281Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-04T11:27:01.281Z"
             }
           ]
         }

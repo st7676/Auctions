@@ -23,6 +23,13 @@ auctionId!: number;
     private api: ApiService
   ) {}
 
+  bidAmount: number = 0;
+
+  bid() {
+    this.api.placeBid(this.auctionId, this.bidAmount).subscribe(() => {
+      // this.loadBids();
+    });
+  }
   
   ngOnInit(): void {
     this.auctionId = Number(this.route.snapshot.paramMap.get('id'));
