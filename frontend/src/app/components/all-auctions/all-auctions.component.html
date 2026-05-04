@@ -1,0 +1,11 @@
+<h2>מכירות פומביות</h2>
+
+<div *ngFor="let a of auctions" class="auction-card">
+  <h3>{{ a.title }}</h3>
+  <p>מחיר נוכחי: {{ a.currentHighestBid }}</p>
+  <p>סטטוס: {{ a.status }}</p>
+
+  <button (click)="openAuction(a)">
+    כניסה למכירה
+  </button>
+</div>

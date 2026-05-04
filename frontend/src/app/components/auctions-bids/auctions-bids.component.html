@@ -1,0 +1,7 @@
+<h2>{{ auction.title }}</h2>
+
+<p>מחיר נוכחי: {{ auction.currentHighestBid }}</p>
+
+<input [(ngModel)]="bidAmount" type="number">
+
+<button (click)="bid()">הצע</button>
